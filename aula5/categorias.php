@@ -16,7 +16,7 @@
 
 <div class="row">
     <div class="col-md-4">
-        <a href="categorias-criar.php" class="btn btn-info btn-block">Crair Nova Categoria</a>
+        <a href="categorias-criar.php" class="btn btn-info btn-block">Criar Nova Categoria</a>
     </div>
 </div>
 

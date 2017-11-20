@@ -7,7 +7,7 @@
 
 <div class="row">
     <div class="col-md-4">
-        <a href="produtos-criar.php" class="btn btn-info btn-block">Crair Novo Produto</a>
+        <a href="produtos-criar.php" class="btn btn-info btn-block">Criar Novo Produto</a>
     </div>
 </div>
 
